@@ -1,2 +1,2 @@
-# Simple
-It's just a simple project
+# Students
+Here store students projects
